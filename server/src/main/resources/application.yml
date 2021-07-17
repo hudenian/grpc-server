@@ -1,0 +1,6 @@
+server:
+  port: 7777
+
+grpc:
+  server:
+    port: 8888
